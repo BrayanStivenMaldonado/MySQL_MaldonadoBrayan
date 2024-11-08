@@ -1,6 +1,6 @@
 CREATE DATABASE ConsultasJardineria_MaldonadoBrayan; -- Crear una base de datos
 
-USE ConsultasJardineria_MaldonadoBrayan; -- Utilizar mi BBDD
+USE ConsultasJardineria_MaldonadoBrayan; -- Utilizar mi BBDD 
 
 CREATE TABLE gama_producto(
 	gama VARCHAR(50) PRIMARY KEY,
