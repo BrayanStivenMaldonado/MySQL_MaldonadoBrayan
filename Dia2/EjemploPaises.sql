@@ -1,6 +1,6 @@
 CREATE DATABASE T2_paises; -- Crear una base de datos
 
-USE T2_paises; -- Utilizr mi BBDD
+USE T2_paises; -- Utilizr mi BBDD 
 
 CREATE TABLE Pais (
 id INT PRIMARY KEY NOT NULL,
