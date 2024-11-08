@@ -1,5 +1,5 @@
 CREATE DATABASE migrupoT2;
-USE migrupoT2;
+USE migrupoT2; 
 
 CREATE TABLE vehiculos(
 id_vehiculo INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
